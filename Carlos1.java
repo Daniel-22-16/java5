@@ -11,6 +11,9 @@ public class Carlos1 {
         System.out.println("hola " +nombre);
         
         int num;
+        Scanner n = new Scanner(System.in);
+      System.out.println("ingrese un  numero: ");
+      num=n.nextInt();
     }
         
     
