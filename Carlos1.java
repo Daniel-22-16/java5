@@ -14,6 +14,9 @@ public class Carlos1 {
         Scanner n = new Scanner(System.in);
       System.out.println("ingrese un  numero: ");
       num=n.nextInt();
+      
+      if(num<0){
+          System.out.println("El numero es negativo");  
     }
         
     
