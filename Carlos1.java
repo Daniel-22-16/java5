@@ -8,6 +8,9 @@ public class Carlos1 {
         Scanner sc = new Scanner(System.in);
         System.out.println("ingrese su nombre");
         String nombre =sc.nextLine();
+        System.out.println("hola " +nombre);
+        
+        int num;
     }
         
     
