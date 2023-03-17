@@ -18,6 +18,10 @@ public class Carlos1 {
       if(num<0){
           System.out.println("El numero es negativo");  
     }
-        
+      else{
+       System.out.println("El numero es positivo");    
+          } 
+    }  
+    
     
 }
